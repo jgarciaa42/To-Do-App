@@ -1,6 +1,6 @@
 To-Do App
 
-Esta es una aplicación web sencilla de lista de tareas desarrollada con **HTML**, **CSS** y **JavaScript**. Permite al usuario agregar, eliminar y marcar tareas como completadas, con una interfaz moderna y responsiva. Además, utiliza `localStorage` para conservar las tareas incluso después de cerrar o recargar la página.
+Esta es una aplicación web sencilla de lista de tareas desarrollada con **HTML**, **CSS** y **JavaScript**. Permite al usuario agregar, eliminar y marcar tareas como completadas, con una interfaz moderna y responsiva. Además, utiliza localStorage para conservar las tareas incluso después de cerrar o recargar la página.
 
 Funcionalidades
 
